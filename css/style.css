@@ -1,0 +1,73 @@
+#errorbox {
+    text-align: center;
+    align-self: flex-end;
+    /* align-items: right; */
+    padding-top: 200px;
+}
+
+.mask {
+    opacity: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.mainDiv {
+    text-align: center;
+    /* border-style: outset; */
+    border-style: unset;
+    border-radius: 10px;
+    border-width: 5px;
+    margin: 20px;
+    /* opacity: 0; */
+}
+
+h1 {
+    text-align: center;
+    /* opacity: 0; */
+    font-family: monospace;
+    color: #aaa9ad;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#os {
+    float: left;
+}
+
+#ooswe {
+    float: right;
+}
+
+#cc {
+    float: left;
+}
+
+#adt {
+    float: right;
+}
+
+#dip {
+    float: left;
+}
+
+#dss {
+    float: right;
+}
+
+#grad1 {
+    /* height: px; */
+    /* background-color: #fde7f9; */
+    /* background-image: linear-gradient(90deg, #fde7f9, #aacaef, #fde7f9); */
+    /* Standard syntax (must be last) */
+}
+
+* {
+    color: #5D5A58;
+}
